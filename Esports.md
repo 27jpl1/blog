@@ -1,0 +1,7 @@
+---
+layout: page
+title: Esports
+permalink: /esports/
+---
+
+I am currently a co-captain of the Rocket Leauge team. The Rocket League team is on of the five differents teams that make up the Eports team. Along with Rocket League, there are teams for League of Legends, Valorant, Apex Legends, and Smash. Before I came to Hendrix, I helped start an Esports team at my high school, Episcopal Collegiate School. We started off with a League of Legends and Rocket League team. After two years, we graduated all of our League of Legends Players, so we condesed to only participate in Rocket League. Luckily, we had three freshman joining, who were good friends and had good synergy. All threee of them were good, but one of them was one of if not the best Rocket League player in Arkansas. That year we won two State Championships, one in the Fall and one in the Spring. After the school year ended, one of the freshman moved to Texas and the other moved to another school in town. We did not win another State Championship, but we continually placed as one of the top teams in Arkansas, even though we competed against schools all over the state regardless of their classification. The year I came to Hendrix, the sponsor for the Esports team left the school, and no one took over as sponsor, so the Esports team was disbanded almost as soon as it was formed. Although its life was short-lived, the experiences I had on the Esports team in high school will never be forgoten, and I hope to add my great memories of Esports in my time at Hendrix.
