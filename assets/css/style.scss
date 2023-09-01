@@ -5,3 +5,23 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.site-header{
+  background-color: orange;
+}
+
+.site-footer{
+  background-color: black;
+}
+.footer-col-wrapper{
+  color: white;
+}
+.svg-icon{
+  color: white;
+}
+span{
+  color: white;
+}
+.u-email{
+  color: white;
+}
